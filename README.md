@@ -28,10 +28,10 @@ Users should be able to:
 
 ### Screenshot
 Mobile Version
-![](./images/mobile-version.jpg)
+![](./images/mobile-version.JPG)
 
 Tab Version
-![](./images/tab.jpg)
+![](./images/tab.JPG)
 
 
 
