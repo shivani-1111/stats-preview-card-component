@@ -9,13 +9,10 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -45,7 +42,6 @@ Users should be able to:
 - Solution URL: [https://github.com/shivani-1111/stats-preview-card-component]
 - Live Site URL: [https://shivani-1111.github.io/stats-preview-card-component/]
 
-## My process
 
 ### Built with
 
