@@ -27,13 +27,17 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-<b>Mobile Version</b>
+<b>Desktop Version</b>
 <br>
-![](./images/mobile-version.JPG)
+![](./images/desktop.JPG)
 <br>
 <b>Tab Version</b>
 <br>
 ![](./images/Tab.JPG)
+<b>Mobile Version</b>
+<br>
+![](./images/mobile-version.JPG)
+
 
 
 
